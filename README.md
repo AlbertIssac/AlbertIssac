@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertIssac
+- 👋 Hi, I’m Rudra Patel
 - 👀 I’m interested in computer engineering but got stuck in computer proggramming 😂
 - 🌱 I’m currently learning data structure and algorithms using python🐍
 - 💞️ I’m looking to collaborate on projects related to data structures and algorithms, as well as websites and computer engineering projects, including work with Arduino and Raspberry Pi. 
